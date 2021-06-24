@@ -4,3 +4,6 @@ Claude May
 Ben Stropes
 Nipuna Wanninayake Mudiyanselage
 Jangvala Titamongu
+
+
+We learned the basics of committing files to Github and what to do in a merge conflict. How it is resolved, and what causes them. We will continue using Github to collaborate, all the while growing in our understanding of version control systems. 
